@@ -3,6 +3,8 @@
 - [LinkedIn](https://www.linkedin.com/in/lucasrainett/)
 - [Youtube](https://www.youtube.com/channel/UCmXfe6DV8nydTTlG9w_UHJA)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrainett)](https://github.com/lucasrainett)
+
 <!--
 **lucasrainett/lucasrainett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
