@@ -3,7 +3,7 @@
 
 
 ### Isomorphic Applications Livestream
-[![Isomorphic Applications](https://yt-embed.herokuapp.com/embed?v=0b5vZHTSMoA)](https://www.youtube.com/playlist?list=PLW4bMAMkW2C8EDK9CKgM2_6UFtqyCXVky)
+[![Isomorphic Applications](https://github.com/lucasrainett/lucasrainett/blob/master/youtube_preview.gif)](https://www.youtube.com/playlist?list=PLW4bMAMkW2C8EDK9CKgM2_6UFtqyCXVky)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrainett)](https://github.com/lucasrainett)
 
